@@ -1,9 +1,5 @@
 ### Hi there! 👋 Welcome to My GitHub Profile
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ksanjeev284/count.svg" alt="visitor count" width="200" />
-</div>
-
 ---
 
 ### 🚀 About Me
