@@ -38,8 +38,8 @@ class Sanjeev:
 
 <div align="center">
 
-[![Instagram Bot](https://github-readme-stats.vercel.app/api/pin/?username=ksanjeev284&repo=Instagram-Chat-Bot&theme=tokyonight&hide_border=true)](https://github.com/ksanjeev284/YoutubetoSpotifyPlaylistConverter)
-[![CTC Calculator](https://github-readme-stats.vercel.app/api/pin/?username=ksanjeev284&repo=ctccalculator.in&theme=tokyonight&hide_border=true)](https://github.com/ksanjeev284/Mathematical-Toolkit)
+[![Instagram Bot](https://github-readme-stats.vercel.app/api/pin/?username=ksanjeev284&repo=YoutubetoSpotifyPlaylistConverter&theme=tokyonight&hide_border=true)](https://github.com/ksanjeev284/YoutubetoSpotifyPlaylistConverter)
+[![CTC Calculator](https://github-readme-stats.vercel.app/api/pin/?username=ksanjeev284&repo=Mathematical-Toolkit&theme=tokyonight&hide_border=true)](https://github.com/ksanjeev284/Mathematical-Toolkit)
 
 </div>
 
