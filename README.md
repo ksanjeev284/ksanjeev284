@@ -122,8 +122,34 @@ SKILLS = {
 
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ksanjeev284&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksanjeev284&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</div>
+
+## 📈 Coding Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ksanjeev284&theme=tokyonight" alt="Activity Graph">
+</div>
+
+## 🌐 Weekly Development
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ksanjeev284&theme=tokyonight" alt="Productive Time">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ksanjeev284&theme=tokyonight" alt="Top Languages">
+</div>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+## 🎯 Achievements & Metrics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ksanjeev284&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies">
 </div>
 
 <div align="center">
@@ -132,6 +158,14 @@ SKILLS = {
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/ksanjeev284/ksanjeev284/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://github.com/ksanjeev284/ksanjeev284/blob/output/github-contribution-grid-snake.svg" />
   </picture>
+</div>
+
+## 🎵 Now Playing
+
+<div align="center">
+  
+  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgv2rn4qf6knyvbtiuou&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgv2rn4qf6knyvbtiuou&redirect=true)
+
 </div>
 
 ## 📊 GitHub Stats
