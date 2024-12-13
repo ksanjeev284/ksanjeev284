@@ -6,6 +6,8 @@
   
   [![An image of @ksanjeev284's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ksanjeev284)](https://holopin.io/@ksanjeev284)
   
+  [![Profile Views](https://komarev.com/ghpvc/?username=ksanjeev284&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/ksanjeev284)
+  
 </div>
 
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -21,6 +23,7 @@ class Sanjeev:
         self.interests = ["Bot Development", 
                          "Process Automation", 
                          "Open Source"]
+        self.fun_fact = "I can code for hours with just coffee and music! 🎵☕"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
@@ -30,9 +33,19 @@ class Sanjeev:
             "Master Advanced Python Concepts",
             "Contribute to Major Open Source Projects",
             "Build Impactful Automation Tools",
-            "Expand Tech Stack"
+            "Expand Tech Stack",
+            "Share Knowledge through Tech Blogs"
         ]
+        
+    def get_daily_routine(self):
+        return ["☀️ Code", "🎯 Learn", "🔄 Repeat"]
 ```
+
+## 🌟 Quick Highlights
+- 🔭 Currently working on: **Instagram Chat Bot**
+- 🌱 Learning: **Advanced Python, AI/ML**
+- 💬 Ask me about: **Python, Automation, Bot Development**
+- ⚡ Fun fact: **I automate everything I can!**
 
 ## 🚀 Featured Projects
 
@@ -54,6 +67,7 @@ class Sanjeev:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -62,11 +76,18 @@ class Sanjeev:
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Testing & CI/CD
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 </div>
 
@@ -81,8 +102,17 @@ class Sanjeev:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksanjeev284&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
-## 📈 Activity Graph
-[![Sanjeev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ksanjeev284&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 💡 Core Skills
+
+```python
+SKILLS = {
+    "Languages": ["Python 🐍", "JavaScript 🌐", "HTML/CSS 🎨"],
+    "Frameworks": ["Django 🎯", "Flask ⚡", "FastAPI 🚀"],
+    "Databases": ["MongoDB 🍃", "MySQL 🐬", "Redis ⚡"],
+    "Tools": ["Docker 🐳", "Git 📚", "AWS ☁️"],
+    "Interests": ["Automation 🤖", "Bot Development 🔧", "Open Source 💻"]
+}
+```
 
 ## 🏆 GitHub Trophies
 <div align="center">
