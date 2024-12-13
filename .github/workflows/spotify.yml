@@ -1,0 +1,35 @@
+name: Spotify Recently Played Workflow
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-readme-with-spotify:
+    name: Update Spotify Recently Played
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Recently Played
+        uses: JeffreyCA/spotify-recently-played-readme@v2
+        with:
+          count: 5
+          unique: true
+          truncate: true
+          spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          
+      - name: Commit and Push
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update Spotify recently played"
+          git push
