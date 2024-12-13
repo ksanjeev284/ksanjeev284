@@ -16,14 +16,22 @@ jobs:
     
     steps:
       - uses: actions/checkout@v3
+        
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+          
       - name: Update Recently Played
         uses: kittinan/spotify-github-profile@master
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         with:
-          api_key: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          
+          args: |
+            entrypoint: spotify-github-profile
+            readme-path: ./README.md
+            
       - name: Commit and Push
         run: |
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
