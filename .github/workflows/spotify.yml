@@ -17,11 +17,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Update Recently Played
-        uses: JeffreyCA/spotify-recently-played-readme@v2
+        uses: kittinan/spotify-github-profile@master
         with:
-          count: 5
-          unique: true
-          truncate: true
+          api_key: ${{ secrets.SPOTIFY_CLIENT_ID }}
           spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
