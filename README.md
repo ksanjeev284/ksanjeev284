@@ -10,7 +10,13 @@
   
 </div>
 
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ksanjeev284&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" align="center" />
+</div>
+
+<br/>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🎯 About Me
 
@@ -46,6 +52,7 @@ class Sanjeev:
 - 🌱 Learning: **Advanced Python, AI/ML**
 - 💬 Ask me about: **Python, Automation, Bot Development**
 - ⚡ Fun fact: **I automate everything I can!**
+- 🎮 When not coding: **Playing Chess ♟️ or Reading Tech Blogs 📚**
 
 ## 🚀 Featured Projects
 
@@ -91,18 +98,9 @@ class Sanjeev:
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksanjeev284&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksanjeev284&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksanjeev284&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
 ## 💡 Core Skills
+
+<div align="center">
 
 ```python
 SKILLS = {
@@ -113,6 +111,27 @@ SKILLS = {
     "Interests": ["Automation 🤖", "Bot Development 🔧", "Open Source 💻"]
 }
 ```
+
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ksanjeev284&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksanjeev284&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksanjeev284&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
