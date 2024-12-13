@@ -6,7 +6,13 @@
   
   [![An image of @ksanjeev284's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ksanjeev284)](https://holopin.io/@ksanjeev284)
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=ksanjeev284&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/ksanjeev284)
+  <a href="https://github.com/ksanjeev284">
+    <img src="https://komarev.com/ghpvc/?username=ksanjeev284&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views">
+  </a>
+  
+  [![Years Badge](https://badges.pufler.dev/years/ksanjeev284?style=for-the-badge&color=blue&logo=github)](https://github.com/ksanjeev284)
+  [![Repos Badge](https://badges.pufler.dev/repos/ksanjeev284?style=for-the-badge&color=green&logo=github)](https://github.com/ksanjeev284?tab=repositories)
+  [![Commits Badge](https://badges.pufler.dev/commits/monthly/ksanjeev284?style=for-the-badge&color=purple&logo=github)](https://github.com/ksanjeev284)
   
 </div>
 
