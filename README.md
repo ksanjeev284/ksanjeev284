@@ -22,9 +22,10 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="220" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ## 🎯 About Me
+
+<div>
+  <img align="right" alt="Coding" width="220" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```python
 class Sanjeev:
@@ -52,6 +53,7 @@ class Sanjeev:
     def get_daily_routine(self):
         return ["☀️ Code", "🎯 Learn", "🔄 Repeat"]
 ```
+</div>
 
 ## 🌟 Quick Highlights
 - 🔭 Currently working on: **Instagram Chat Bot**
