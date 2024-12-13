@@ -16,26 +16,12 @@ jobs:
     
     steps:
       - uses: actions/checkout@v3
-        
-      - uses: actions/setup-node@v3
-        with:
-          node-version: '16'
-          
+      
       - name: Update Recently Played
-        uses: kittinan/spotify-github-profile@master
-        env:
-          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          args: |
-            entrypoint: spotify-github-profile
-            readme-path: ./README.md
-            
-      - name: Commit and Push
-        run: |
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update Spotify recently played"
-          git push
+          comment_tag_name: "SPOTIFY_RECENTLY_PLAYED"
+          feed_list: "https://spotify-recently-played-readme.vercel.app/api?user=31hpn5tt5qovlmi2ehq5wtnodebe"
+          max_post_count: 5
+          template: "🎵 $title - $artist"
+          commit_message: "Updated Spotify recently played"

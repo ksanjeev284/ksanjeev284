@@ -164,11 +164,12 @@ SKILLS = {
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dqsv5h3qqmxwlzv2vhxkpqvtxm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=31dqsv5h3qqmxwlzv2vhxkpqvtxm)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hpn5tt5qovlmi2ehq5wtnodebe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=31hpn5tt5qovlmi2ehq5wtnodebe)
 
 ### Recently Played 🎧
-<!-- spotify-recently-played-readme start -->
-<!-- spotify-recently-played-readme end -->
+
+<!-- SPOTIFY_RECENTLY_PLAYED:START -->
+<!-- SPOTIFY_RECENTLY_PLAYED:END -->
 
 </div>
 
