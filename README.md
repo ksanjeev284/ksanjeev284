@@ -160,14 +160,6 @@ SKILLS = {
   </picture>
 </div>
 
-## 🎵 My Spotify Vibes
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hpn5tt5qovlmi2ehq5wtnodebe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
