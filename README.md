@@ -12,16 +12,7 @@
 - 🔭 Building: **Instagram Chat Bot**
 - 🌱 Learning: **Advanced Python, AI/ML**
 - 💬 Ask me about: **Python, Automation, Bot Dev**
-
-### 🚀 Featured
-- 🧠 **YouTube → Spotify Playlist Converter**  
-  <sub>Turn YouTube playlists into Spotify playlists automatically.</sub>  
-  ➜ https://github.com/ksanjeev284/YoutubetoSpotifyPlaylistConverter
-
-- 🧮 **Mathematical Toolkit**  
-  <sub>Handy utilities for everyday calculations.</sub>  
-  ➜ https://github.com/ksanjeev284/Mathematical-Toolkit
-
+  
 ### 🛠️ Tech I use
 Python • FastAPI • Django • Flask • JavaScript • Docker • GitHub Actions • AWS • MongoDB • MySQL • Redis
 
